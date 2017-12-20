@@ -1,0 +1,22 @@
+{
+  "name": "mdl_admin",
+  "version": "1.0.0",
+  "description": "This is a free MDL Admin Template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eezeapps/mdl_light.git"
+  },
+  "author": "eezeapps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eezeapps/mdl_light/issues"
+  },
+  "homepage": "https://github.com/eezeapps/mdl_light#readme",
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  }
+}
